@@ -1,0 +1,20 @@
+.success,
+.error {
+    color: #fff;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    text-align: center;
+    font-size: 18px;
+}
+
+.success {
+    background-color: rgb(29, 224, 29);
+}
+
+.error {
+    background-color: rgb(247, 17, 17);
+}
+
+h1 {
+    text-align: center;
+}
